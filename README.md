@@ -1,0 +1,2 @@
+# ReinforcementLearning-for-matching-values
+I would like to test if reinforcement learning is a good candidate to calibrate an engineering model. I have a 3D model that has various properties. By varying these properties the model can be properly calibrated. I would like to first setup a test case using a very simple model, varying only 1 parameter, and an reinforcement learning loop and check if it will work.   A successful outcome is the algorithm can identify the correct value(or close) of the parameter that correctly calibrates the engineering model.
